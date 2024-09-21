@@ -36,7 +36,7 @@ for me (I'll probably be asking a lot of out of the scope questions).
 ### <span style="color:#ffe4c4; font-family: Spectral;"><a href="https://www.python.org">Link to the official Python website</a></span>
 ### <span style="color:#ffe4c4; font-family: Spectral;"> I can use pip- install hehe </span>
 <span style="color:#ffc300; font-family: Spectral;">Please ignore the top part:D </span>
-![GitHub Logo](pip.png)
-![GitHub Logo](meme.png)
+<img src="pip.png"></img>
+<img src="meme.png"></img>
 
 
