@@ -1,3 +1,5 @@
+- ![#ffe4c4](https://placehold.co/15x15/ffe4c4/ffe4c4.png) `#ffe4c4`
+- ![#ffc300](https://placehold.co/15x15/ffc300/ffc300.png) `#ffc300` 
 # <span style="color:#ffe4c4; font-family: Spectral;">Assignment 2</span>
 ## <span style="color:#ffe4c4; font-family: Spectral;">Requested Information</span>
 ### <span style="color:#ffe4c4; font-family: Spectral;">Github Username</span>
