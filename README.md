@@ -3,7 +3,7 @@
 # <span style="color:#ffe4c4; font-family: Spectral;">Assignment 2</span>
 ## <span style="color:#ffe4c4; font-family: Spectral;">Requested Information from Assignment 1:</span>
 ### <span style="color:#ffe4c4; font-family: Spectral;">Github Username</span>
-<span style="color:#ffc300; font-family: Spectral;">@yangpings</span>
+<span style="color:#ffc300; font-family: Spectral;">@yangpings (Eric Yang)</span>
 
 ### <span style="color:#ffe4c4; font-family: Spectral;">Answer + Script </span>
 <span style="color:#ffc300; font-family: Spectral;">
